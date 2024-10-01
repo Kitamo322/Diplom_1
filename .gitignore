@@ -3,5 +3,5 @@
 .build
 .target
 .gitignore
-__pycache__
+__pycache__gi
 .pytest_cache
